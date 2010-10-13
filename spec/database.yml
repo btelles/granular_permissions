@@ -1,0 +1,4 @@
+sqlite3:
+  :adapter: sqlite3
+  :dbfile: vendor/plugins/reporter/spec/db/granular_permissions_plugin.sqlite3.db
+  :database: vendor/plugins/reporter/spec/db/granular_permissions_plugin.sqlite3.db
