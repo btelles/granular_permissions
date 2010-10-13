@@ -1,0 +1,8 @@
+Description:
+    Explain the generator
+
+Example:
+    rails generate granular_permissions Thing
+
+    This will create:
+        what/will/it/create
